@@ -12,15 +12,17 @@
 </div>
 
 
+
+
 <div align="center">
   
-![GuGuGu](https://raw.githubusercontent.com/yinghualuowu/yinghualuowu/master/pic/gugu.png)
+### 📍 Currently address: Shenzhen, Guangdong
 
 </div>
 
 <div align="center">
   
-### 📍 Currently address: Shenzhen, Guangdong
+![GuGuGu](https://raw.githubusercontent.com/yinghualuowu/yinghualuowu/master/pic/gugu.png)
 
 </div>
 
