@@ -4,7 +4,6 @@
 
 </div>
 
-</br>
 
 <div align="center">
 
@@ -12,7 +11,6 @@
 
 </div>
 
-</br>
 
 <div align="center">
 
@@ -21,11 +19,10 @@
 </br>
 <div align="center">
 
-### 📍 Currently base at: Shenzhen, Guangdong
+### 📍 Currently address: Shenzhen, Guangdong
 
 </div>
 
-</br>
 
 <div align="center">
 
@@ -33,7 +30,6 @@
 
 </div>
 
-</br>
 <div align="center">
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 
@@ -42,7 +38,6 @@
 <img height="25" src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
 
 </div>
-</br>
 
 <div align="center">
 
@@ -50,7 +45,6 @@
 
 </div>
 
-</br>
 <div align="center">
 
 <img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
@@ -58,7 +52,13 @@
 <img height="23" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg">
 
 </div>
-</br>
+
+<div align="center">
+
+### 🌐 Visitor-badge
+
+</div>
+
 <div align="center">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yinghualuowu.yinghualuowu)
