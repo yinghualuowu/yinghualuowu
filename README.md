@@ -5,6 +5,11 @@
 
 博客园地址：https://www.cnblogs.com/yinghualuowu
 
+项目导航：
+
+如果需要一个可以运行的车牌识别（毕设）-> https://github.com/yinghualuowu/Python_VLPR
+
+
 ## 数据统计
 
 <div align="center">
@@ -40,18 +45,6 @@
 
 </div>
 
-<div align="center">
-
-### 💙I'm currently learing
-
-</div>
-
-<div align="center">
-
-<img height="30" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png">
-<img height="23" src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg">
-
-</div>
 
 <div align="center">
 
