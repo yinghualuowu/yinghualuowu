@@ -5,8 +5,6 @@
 
 博客园地址：https://www.cnblogs.com/yinghualuowu
 
-项目导航：
-
 如果需要一个可以运行的车牌识别（毕设）-> https://github.com/yinghualuowu/Python_VLPR
 
 
