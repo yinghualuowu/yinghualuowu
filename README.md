@@ -1,7 +1,7 @@
 # 看这里~~
 
 ## 个人介绍
-名字是yinghualuowu(樱花落舞)，也可以简称樱花哦,目前从事C#+WPF方向工作
+名字是yinghualuowu(樱花落舞)，也可以简称樱花哦,目前从事C#(WPF)方向开发
 
 博客园地址：https://www.cnblogs.com/yinghualuowu
 
