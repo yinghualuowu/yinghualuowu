@@ -5,7 +5,17 @@
 
 博客园地址：https://www.cnblogs.com/yinghualuowu
 
-如果需要一个可以运行的车牌识别（毕设）-> https://github.com/yinghualuowu/Python_VLPR
+## 项目导航
+
+| 描述   | 详情 |   链接 |
+| :------------- | :----------: | :------------: |
+| 一个可以运行的车牌识别（毕设）-> |   ![centered](https://img.shields.io/github/stars/yinghualuowu/Python_VLPR.svg)   | [Python_VLPR](https://github.com/yinghualuowu/Python_VLPR) |
+| 一个基于.Net5 和 云函数 自动执行 米游社原神每日签到福利(Actions版本被封了QAQ) ->       |    ![centered](https://img.shields.io/github/stars/yinghualuowu/GenshinDailyTools.svg)     |    [GenshinDailyTools](https://github.com/yinghualuowu/GenshinDailyTools) |
+
+
+
+
+
 
 
 ## 数据统计
